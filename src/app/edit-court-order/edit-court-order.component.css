@@ -1,0 +1,39 @@
+.v4 {
+    border-left: 5px solid #0A429B;;
+    height: 20px;
+    margin-left:20px;
+  }
+  .book{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+.page-footer{
+    background-color:#34373D;
+    color: white;
+}
+.copyright{
+    background-color: white;
+    color: black;
+}
+.deo{
+    background-color: #5E85C2;
+    columns: #fff;
+    color: #fff;
+}
+.both{
+    display: flex;
+}
+.navbar-nav{
+margin-left: 580px;
+}
+.bel{
+    margin-top: 15px;
+}
+.rounded-pill{
+    width: 250px;
+}
+li{
+    text-decoration: none;
+    display: inline;
+}
